@@ -1,0 +1,1 @@
+CREATE CONSTRAINT ON (c:Character) ASSERT c.name IS UNIQUE;
